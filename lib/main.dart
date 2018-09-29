@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Movies Thrailler'),
+          title: Text('Movies Trailers'),
           actions: <Widget>[
             IconButton(
               onPressed: () {},
