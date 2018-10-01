@@ -14,7 +14,7 @@ class StoryLine extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         new Padding(
-          padding: const EdgeInsets.only(top: 8.0, left: 16.0),
+          padding: const EdgeInsets.only(top: 0.0, left: 16.0),
           child: new Text(
             'Synopsis',
             style: textTheme.subhead.copyWith(fontSize: 18.0),
